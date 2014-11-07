@@ -4,7 +4,6 @@
  * Created on May 20th, 2014
  * Last updated on June 4th, 2014
  *
- * Name:        Joyce Habbouche
  * Course:      1121 X
  * Assignment:  1
  */
